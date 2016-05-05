@@ -12,7 +12,8 @@ nav .brand-logo {
 }
 
 p {
-  line-height: 2rem;
+  line-height:2rem;
+  color: black;
 }
 
 .button-collapse {
